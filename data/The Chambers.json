@@ -1,1 +1,19 @@
-
+{
+    "id": 119046078,
+    "name": "The Chambers",
+    "author": "Gengar098",
+    "creators": ["Gengar098"],
+    "verifier": "ZK",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Spifff",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
