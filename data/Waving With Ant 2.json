@@ -1,1 +1,23 @@
-
+{
+    "id": 118138290,
+    "name": "Waving With Ant 2",
+    "author": "Anthony",
+    "creators": ["Anthony"],
+    "verifier": "Anthony",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "eebysheeby",
+            "percent": 100
+        },
+        {
+            "user": "spifff",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
