@@ -1,1 +1,16 @@
 
+{
+    "id": 118672570,
+    "name": "Top 1 Ship Challenge",
+    "author": "Timeless",
+    "creators": ["Timeless"],
+    "verifier": "Timeless",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
