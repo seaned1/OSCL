@@ -1,1 +1,23 @@
-
+{
+    "id": 118142823,
+    "name": "Gengar Never Clear",
+    "author": "Rkx",
+    "creators": ["Rkx"],
+    "verifier": "Rkx",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "eebysheeby",
+            "percent": 100
+        },
+        {
+            "user": "Astra",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
