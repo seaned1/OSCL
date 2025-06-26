@@ -1,1 +1,15 @@
-
+{
+    "id": 118220694,
+    "name": "Spinosaurus",
+    "author": "GdMoen",
+    "creators": ["GdMoen"],
+    "verifier": "Blendro",
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+{
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
