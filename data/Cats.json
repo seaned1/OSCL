@@ -1,1 +1,11 @@
-
+{
+    "id": 117926882,
+    "name": "Cats",
+    "author": "bowm",
+    "creators": ["bowm"],
+    "verifier": "bowm",
+    "verification": "https://www.youtube.com/watch?v=ouHZDAGdD4s",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
