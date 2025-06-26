@@ -8,15 +8,23 @@
     "percentToQualify": "100",
     "records": [
         {
+            "user": "Cliksn1p",
+            "percent": 100
+        },
+        {
+            "user": "EK",
+            "percent": 100
+        },
+        {
+            "user": "Astra",
+            "percent": 100
+        },
+        {
+            "user": "Bowm",
+            "percent": 100
+        },
+        {
             "user": "Blendro",
-            "percent": 100
-        },
-        {
-            "user": "Atlasdude",
-            "percent": 100
-        },
-        {
-            "user": "Spifff",
             "percent": 100
         }
     ]
