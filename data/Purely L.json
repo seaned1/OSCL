@@ -1,1 +1,27 @@
-
+{
+    "id": 118369869,
+    "name": "Purely L",
+    "author": "Rkx",
+    "creators": ["Rkx"],
+    "verifier": "Rkx",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "bowm",
+            "percent": 100
+        },
+        {
+            "user": "spifff",
+            "percent": 100
+        },
+        {
+            "user": "Timeless",
+            "percent": 100
+        },
+        {
+            "user": "blendro",
+            "percent": 100
+        }
+    ]
+}
