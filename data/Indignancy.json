@@ -1,1 +1,19 @@
-
+{
+    "id": 119046078,
+    "name": "Indignancy",
+    "author": "Rovlod",
+    "creators": ["Rovlod"],
+    "verifier": "Rovlod",
+ "verification": "https://youtu.be/jWftj0X9lZE",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        },
+        {
+            "user": "Spifff",
+            "percent": 100
+        }
+    ]
+}
