@@ -1,1 +1,15 @@
-
+{
+    "id": 115936626,
+    "name": "The Death Note",
+    "author": "EK",
+    "creators": ["Gengar098, EK"],
+    "verifier": "EK",
+ "verification": "https://www.youtube.com/watch?v=wCRLAassYME",
+    "percentToQualify": "100",
+    "records": [
+{
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
