@@ -1,1 +1,31 @@
-
+{
+    "id": 115378507,
+    "name": "Zk Challenge Wav 2",
+    "author": "Zk",
+    "creators": ["Rkx, Zk"],
+    "verifier": "Zk",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Anthony",
+            "percent": 100
+        },
+        {
+            "user": "EK",
+            "percent": 100
+        },
+        {
+            "user": "Astra",
+            "percent": 100
+        },
+        {
+            "user": "eebysheeby",
+            "percent": 100
+        },
+        {
+            "user": "bowm",
+            "percent": 100
+        }
+    ]
+}
