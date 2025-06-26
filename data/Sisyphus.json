@@ -1,1 +1,15 @@
-
+{
+    "id": 118183133,
+    "name": "Sisyphus",
+    "author": "Bagelman",
+    "creators": ["Bagelman"],
+    "verifier": "Bagelman",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+{
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
