@@ -1,1 +1,15 @@
-
+{
+    "id": 118354078,
+    "name": "Nkpwdr",
+    "author": "bowm",
+    "creators": ["bowm"],
+    "verifier": "bowm",
+    "verification": "https://youtu.be/Atqr7JgKiSo",
+    "percentToQualify": "100",
+    "records": [
+{
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
