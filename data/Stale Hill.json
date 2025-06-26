@@ -1,1 +1,23 @@
-
+{
+    "id": 118244278,
+    "name": "Stale Hill",
+    "author": "EK",
+    "creators": ["EK"],
+    "verifier": "EK",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        },
+        {
+            "user": "Atlasdude",
+            "percent": 100
+        },
+        {
+            "user": "Spifff",
+            "percent": 100
+        }
+    ]
+}
