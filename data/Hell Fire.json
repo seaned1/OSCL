@@ -1,1 +1,19 @@
-
+{
+    "id": 120802827,
+    "name": "Hell Fire",
+    "author": "Timeless",
+    "creators": ["Timeless"],
+    "verifier": "Timeless",
+    "verification": "",
+    "percentToQualify": "100",
+    "records": [
+{
+            "user": "Rkx",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
