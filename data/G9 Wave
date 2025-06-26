@@ -1,1 +1,19 @@
-
+{
+    "id": 118184155,
+    "name": "G9 Wave",
+    "author": "EK",
+    "creators": ["EK"],
+    "verifier": "EK",
+ "verification": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Astra",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
