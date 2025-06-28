@@ -6,6 +6,7 @@
     "verifier": "bowm",
     "verification": "https://youtu.be/b79th2EGqfA?si=jPjF4Zno9Fv29DoH",
     "percentToQualify": "100",
-    "records": [
-    ]
-}
+    "records":                     },
+        {
+            "user": "EK",
+            "percent": 100
