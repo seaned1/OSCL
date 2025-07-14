@@ -1,1 +1,23 @@
-
+{
+    "id": 122812114,
+    "name": "pjkloksadkojpasdf",
+    "author": "Coconut",
+    "creators": ["Coconut"],
+    "verifier": "Coconut",
+ "verification": "https://youtu.be/fOhHG3J7-9Q",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Snale Lorde",
+            "percent": 100
+        },
+        {
+            "user": "Rkx",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
