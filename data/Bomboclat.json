@@ -1,1 +1,15 @@
-
+{
+    "id": 122633790,
+    "name": "Bomboclat",
+    "author": "Rkx",
+    "creators": ["Rkx"],
+    "verifier": "Coconut",
+    "verification": "https://youtu.be/8K_8tyahlYU",
+    "percentToQualify": "100",
+    "records":                     [
+        {
+            "user": "Rkx",
+            "percent": 100
+                    }
+    ]
+}
