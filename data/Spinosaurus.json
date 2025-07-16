@@ -7,6 +7,10 @@
     "verification": "",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Snale Lorde",
+            "percent": 100
+        }
     ]
 }
 
