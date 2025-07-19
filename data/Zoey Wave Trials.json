@@ -1,1 +1,15 @@
-
+{
+    "id": 123095749,
+    "name": "Zoey Wave Trials",
+    "author": "Snale Lorde",
+    "creators": ["Snale Lorde"],
+    "verifier": "Snale Lorde",
+    "verification": "https://www.youtube.com/watch?v=Uuwxp9BWXCg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
