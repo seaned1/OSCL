@@ -1,1 +1,11 @@
-
+{
+    "id": 123341394,
+    "name": "Blue Slop Chall",
+    "author": "GDMoen",
+    "creators": ["GDmoen"],
+    "verifier": "Blendro",
+    "verification": "https://youtu.be/89Y6EyWP8Q4",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
