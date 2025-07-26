@@ -1,1 +1,11 @@
-
+{
+    "id": 123324530,
+    "name": "STARS",
+    "author": "coconut",
+    "creators": ["coconut"],
+    "verifier": "coconut",
+    "verification": "https://www.youtube.com/watch?v=z_VEw-O4zhg",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
