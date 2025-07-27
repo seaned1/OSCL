@@ -6,5 +6,12 @@
     "verifier": "wNotKens",
     "verification": "https://youtu.be/akonuQXdzoY",
     "percentToQualify": "100",
-    "records": [
+    "records": [ {
+            "user": "EK",
+            "percent": 100
+                                            },
+         {
+            "user": "Snale Lorde",
+            "percent": 100
+                                            }
     ]
