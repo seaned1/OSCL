@@ -7,5 +7,9 @@
     "verification": "https://youtu.be/FoMWwLzUYv4?si=MkQayI99mdCsP73W",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
     ]
 }
