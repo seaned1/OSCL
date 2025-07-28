@@ -1,1 +1,19 @@
-
+{
+    "id": 12327401,
+    "name": "bob boob bob",
+    "author": "coconut",
+    "creators": ["coconut"],
+    "verifier": "coconut",
+    "verification": "https://youtu.be/Uv_nANs2oRM",
+    "percentToQualify": "100",
+    "records": [
+    {
+                "user": "Blendro",
+            "percent": 100
+                },
+        {
+            "user": "Snale Lorde",
+            "percent": 100
+        }
+    ]
+}
