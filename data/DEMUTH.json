@@ -1,1 +1,11 @@
-
+{
+    "id": 123702640,
+    "name": "Abyss",
+    "author": "ghast",
+    "creators": ["ghast"],
+    "verifier": "ghast",
+    "verification": "https://youtu.be/yjYsfw2UCcc",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
