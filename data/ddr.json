@@ -1,1 +1,15 @@
-
+{
+    "id": 116216604,
+    "name": "ddr",
+    "author": "Zano",
+    "creators": ["Zano"],
+    "verifier": "Zano",
+    "verification": "https://youtu.be/ZCim12XM8-E?si=kK1PthYvwNkz8qef",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Blendro",
+            "percent": 100
+        }
+    ]
+}
