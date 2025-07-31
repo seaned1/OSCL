@@ -1,0 +1,15 @@
+{
+    "id": 107023842,
+    "name": "Sea Of Diamonds",
+    "author": "Atlasdude",
+    "creators": ["Atlasdude"],
+    "verifier": "Atlasdude",
+    "verification": "https://www.youtube.com/watch?v=fCCy5-Web10",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "EK",
+            "percent": 100
+        }
+    ]
+}
