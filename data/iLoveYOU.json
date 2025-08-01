@@ -1,1 +1,11 @@
-
+{
+    "id": 123626184,
+    "name": "iLoveYOU",
+    "author": "nitro",
+    "creators": ["nitro"],
+    "verifier": "nitro",
+    "verification": "https://www.youtube.com/watch?v=nTNC87vK2HY",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
