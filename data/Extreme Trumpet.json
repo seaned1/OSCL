@@ -1,1 +1,11 @@
-
+{
+    "id": 123906421,
+    "name": "Extreme Trumpet",
+    "author": "slidedlol",
+    "creators": ["slidedlol"],
+    "verifier": "slidedlol",
+    "verification": "https://www.youtube.com/watch?v=wZGy2hooJ_8",
+    "percentToQualify": "100",
+    "records": [
+    ]
+}
