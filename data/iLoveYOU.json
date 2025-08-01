@@ -8,6 +8,10 @@
     "percentToQualify": "100",
     "records":                      [
         {
+            "user": "Atlasdude",
+            "percent": 100
+                                                                        },
+        {
             "user": "EK",
             "percent": 100
                     }
